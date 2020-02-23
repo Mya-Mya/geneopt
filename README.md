@@ -1,7 +1,7 @@
 # Todo
 - [x] testノートブックの関数表示を3Dにする
 # geneopt1
-
+_duplicated_
 # geneopt2
 ## GeneticOptimizer
 ### M
